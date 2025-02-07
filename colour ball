@@ -1,0 +1,5 @@
+colors = ['red', 'green', 'blue']
+objects = ['ball', 'car', 'pen']
+for color in colors:
+    for obj in objects:
+        print(f"{color} {obj}")
